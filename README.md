@@ -8,4 +8,4 @@ Ask me about: The parallels of machine learning and human learning
 
 Contact: caesar.anyogu@gmail.com
 
-Fun fact: I love meditation and have never regretted a single session in my life.
+Fun fact: I love meditation and have never regretted a single sitting session in my life.
