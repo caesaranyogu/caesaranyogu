@@ -4,7 +4,7 @@ Currently Learning: How to turn mathematical models into ML python code
 
 Collaboration: any project designs that help advance understanding of machine learning and human cognition
 
-Ask me about: Monte Carlo simulations and Bayesian Inference
+Ask me about: The parallels of machine learning and human learning
 
 Contact: caesar.anyogu@gmail.com
 
